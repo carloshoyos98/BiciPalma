@@ -1,6 +1,7 @@
 package estacion;
 
 import java.lang.reflect.Array;
+import bicicleta.Bicicleta;
 
 public class Estacion {
     private int id = 0;
