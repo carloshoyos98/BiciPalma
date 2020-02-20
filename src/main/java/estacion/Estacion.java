@@ -23,7 +23,7 @@ public class Estacion {
         System.out.println(estacion);
     }
 
-    public void anclajesLibres() {
+    public int anclajesLibres() {
 
     }
 }

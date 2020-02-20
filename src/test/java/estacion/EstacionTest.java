@@ -16,7 +16,6 @@ public class EstacionTest {
     @Test
     public void anclajesLibresTest() {
         Estacion estacion = new Estacion(2, "Manacor", 10);
-
         assertEquals(5, estacion.anclajesLibres());
     }
 }
